@@ -17,7 +17,7 @@ func main() {
 
 	router.Use(CORSMiddleware())
 
-	router.GET("/", getList)
+	router.GET("/list", getList)
 	router.GET("/recipe/:key", getRecipeByKey)
 
 	router.Run("localhost:8080")
