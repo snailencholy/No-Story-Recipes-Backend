@@ -8,6 +8,9 @@
 *.so
 *.dylib
 
+# Log files from build-errors
+*log
+
 # Test binary, built with `go test -c`
 *.test
 

@@ -1,0 +1,88 @@
+[
+  {
+    "key": "sub1",
+    "label": "Soups",
+    "children": [
+      {
+        "key": "0",
+        "label": "French Onion"
+      },
+      {
+        "key": "1",
+        "label": "Chicken Soup"
+      },
+      {
+        "key": "2",
+        "label": "Potato Soup"
+      },
+      {
+        "key": "3",
+        "label": "Minestrone"
+      }
+    ]
+  },
+  {
+    "key": "sub2",
+    "label": "Chicken",
+    "children": [
+      {
+        "key": "4",
+        "label": "Gochujang Fried Chicken"
+      }
+    ]
+  },
+  {
+    "key": "sub3",
+    "label": "Beef",
+    "children": [
+      {
+        "key": "5",
+        "label": "Cast Iron New York Strip"
+      }
+    ]
+  },
+  {
+    "key": "sub4",
+    "label": "Pork",
+    "children": [
+      {
+        "key": "6",
+        "label": "Crockpot pulled pork"
+      }
+    ]
+  },
+  {
+    "key": "sub5",
+    "label": "Fish",
+    "children": [
+      {
+        "key": "7",
+        "label": "Fried Tilapia Filet"
+      }
+    ]
+  },
+  {
+    "key": "sub6",
+    "label": "Vegetarian",
+    "children": [
+      {
+        "key": "8",
+        "label": "Potato and Mushroom Vindaloo"
+      }
+    ]
+  },
+  {
+    "key": "sub7",
+    "label": "Desserts",
+    "children": [
+      {
+        "key": "9",
+        "label": "Butterscotch Pudding"
+      },
+      {
+        "key": "10",
+        "label": "Delicous ass chocolate cake"
+      }
+    ]
+  }
+]

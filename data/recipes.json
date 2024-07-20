@@ -1,0 +1,28 @@
+{
+  "recipes": [
+    {
+      "Title": "Cast Iron New York Strip",
+      "ingredients": [
+        "STEAK",
+        "BUTTER",
+        "HERB"
+      ],
+      "directions": [
+        "paragraph1",
+        "paragraph2"
+      ]
+    },
+    {
+      "Title": "Butterscotch Pudding",
+      "ingredients": [
+        "Egg yolk",
+        "Dark brown Sugar",
+        "etc..."
+      ],
+      "directions": [
+        "paragraph1",
+        "paragraph2"
+      ]
+    }
+  ]
+}
